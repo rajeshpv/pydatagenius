@@ -1,6 +1,6 @@
 [project]
 name = "pydatagenius"
-version = "0.0.2"
+version = "0.0.3"
 description = "This is a template repository for Python projects that use uv for their dependency management."
 authors = [{ name = "Rajesh Rao", email = "rao.rajesh8@gmail.com" }]
 readme = "README.md"
